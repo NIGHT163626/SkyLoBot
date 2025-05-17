@@ -1,10 +1,28 @@
 [
-  {
-    "nome": "Roblox",
-    "script": "link_do_script_roblox"
-  },
-  {
-    "nome": "Minecraft",
-    "script": "link_do_script_minecraft"
-  }
+    {
+        "nome": "Roblox",
+        "scripts": [
+            {
+                "nome": "Script 1",
+                "conteudo": "print('Olá, Roblox!')"
+            },
+            {
+                "nome": "Script 2",
+                "conteudo": "print('Bem-vindo ao Roblox!')"
+            }
+        ]
+    },
+    {
+        "nome": "Minecraft",
+        "scripts": [
+            {
+                "nome": "Script 1",
+                "conteudo": "print('Olá, Minecraft!')"
+            },
+            {
+                "nome": "Script 2",
+                "conteudo": "print('Bem-vindo ao Minecraft!')"
+            }
+        ]
+    }
 ]
