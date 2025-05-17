@@ -1,25 +1,13 @@
 {
-    "blox_fruits": {
-        "name": "Blox Fruits",
+    "game_id": {
+        "name": "Game Name",
         "scripts": [
             {
-                "id": "w_azure",
-                "name": "W-Azure",
-                "description": "Um script poderoso para Blox Fruits",
-                "codePC": "-- Código PC aqui",
-                "codeMobile": "-- Código Mobile aqui"
-            }
-        ]
-    },
-    "another_game": {
-        "name": "Another Game",
-        "scripts": [
-            {
-                "id": "script1",
-                "name": "Script 1",
-                "description": "Descrição do script",
-                "codePC": "-- Código PC",
-                "codeMobile": "-- Código Mobile"
+                "id": "script_id",
+                "name": "Script Name",
+                "description": "Script Description",
+                "codePC": "PC script code here",
+                "codeMobile": "Mobile script code here"
             }
         ]
     }
