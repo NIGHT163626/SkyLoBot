@@ -1,28 +1,26 @@
-[
-    {
-        "nome": "Roblox",
+{
+    "blox_fruits": {
+        "name": "Blox Fruits",
         "scripts": [
             {
-                "nome": "Script 1",
-                "conteudo": "print('Olá, Roblox!')"
-            },
-            {
-                "nome": "Script 2",
-                "conteudo": "print('Bem-vindo ao Roblox!')"
+                "id": "w_azure",
+                "name": "W-Azure",
+                "description": "Um script poderoso para Blox Fruits",
+                "codePC": "-- Código PC aqui",
+                "codeMobile": "-- Código Mobile aqui"
             }
         ]
     },
-    {
-        "nome": "Minecraft",
+    "another_game": {
+        "name": "Another Game",
         "scripts": [
             {
-                "nome": "Script 1",
-                "conteudo": "print('Olá, Minecraft!')"
-            },
-            {
-                "nome": "Script 2",
-                "conteudo": "print('Bem-vindo ao Minecraft!')"
+                "id": "script1",
+                "name": "Script 1",
+                "description": "Descrição do script",
+                "codePC": "-- Código PC",
+                "codeMobile": "-- Código Mobile"
             }
         ]
     }
-]
+}
